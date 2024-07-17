@@ -1,6 +1,7 @@
 # Interactive Graphs
 
 This project showcases interactive graphs created with R, leveraging advanced data visualization libraries.
+
 [See the GitHub Page here](https://harmon1713.github.io/Plots/)
 
 ## Features
