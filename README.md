@@ -29,5 +29,8 @@ This project showcases interactive graphs created with R, leveraging advanced da
 - Open the `interactive_graph1.html` and `interactive_graph2.html` files in your browser to view the interactive graphs.
 
 ## Acknowledgements
-- [D3.js](https://d3js.org) - JavaScript library for data visualizations
-- [GeoJSON](https://raw.githubusercontent.com/johan/world.geo.json/master/countries.geo.json) - Geographic data
+- [ggplot2](https://ggplot2.tidyverse.org) - A plotting system for R
+- [ggiraph](https://davidgohel.github.io/ggiraph) - Extension of ggplot2 for interactive graphics
+- [patchwork](https://patchwork.data-imaginist.com) - Combines multiple ggplot2 plots
+- [dplyr](https://dplyr.tidyverse.org) - Data manipulation package
+- [htmlwidgets](https://www.htmlwidgets.org) - Framework for creating HTML widgets in R
