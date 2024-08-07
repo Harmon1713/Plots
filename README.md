@@ -2,7 +2,7 @@
 
 This project showcases interactive graphs created with R, leveraging advanced data visualization libraries.
 
-[See the GitHub Page here](https://harmon1713.github.io/Plots/)
+[See the GitHub Page here](https://harmon1713.github.io/Plots/) ⬅
 
 ## Features
 - Interactive scatter and bar plots
